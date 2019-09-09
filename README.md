@@ -1,4 +1,4 @@
-# jupyterentension
+# jupyterextension
 
 Creating a JupyterLab extension for learning purpose
 
